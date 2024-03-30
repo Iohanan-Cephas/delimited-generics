@@ -1,0 +1,2 @@
+# Problem
+A consulting company wants to evaluate the performance of the products, employees, among other things. One of the calculations its needs is to find the largest among a set of elements. Make a program that reads a set of products from a file and then shows the most expensive between them.
